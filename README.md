@@ -1,11 +1,11 @@
-# Kevin – Aspirujący Pentester (17 lat)
+e# – Aspirujący Pentester
 
 **🔒 Zafascynowany Cyberbezpieczeństwem · 💻 Przyszły Tester Penetracyjny · 🎓 Szukam Bezpłatnych Praktyk**
 
 ---
 
 ## O mnie  
-Cześć! Nazywam się **Kevin**, mam **17 lat** i od zawsze pasjonuję się **pentestingiem**. Od momentu, gdy po raz pierwszy uruchomiłem skan portów, wiedziałem, że to moja droga. Żyję i oddycham protokołami sieciowymi, badaniem luk oraz etycznym hakowaniem.
+Cześć! ** i od zawsze pasjonuję się **pentestingiem**. Od momentu, gdy po raz pierwszy uruchomiłem skan portów, wiedziałem, że to moja droga. Żyję i oddycham protokołami sieciowymi, badaniem luk oraz etycznym hakowaniem.
 
 - 🔍 **Aktualne projekty:** Wyzwaniami na Hack The Box & laby domowe  
 - 🛠️ **Kluczowe umiejętności:**  
@@ -40,7 +40,7 @@ Jestem w pełni gotowy na pracę zdalną i dostępny od zaraz. Wzmocnijmy razem 
 ---
 
 ## Kontakt  
-- 📧 **Email:** bibip0662@gmail.com
+- 📧 **Email:** pikola93846@gmail.com
 - 🔗 **GitHub:** [github:https://github.com/animus1230
 
 > _„Umiejętności udowadnia się działaniem, nie papierami. Pozwól mi pokazać, co potrafię.”_
